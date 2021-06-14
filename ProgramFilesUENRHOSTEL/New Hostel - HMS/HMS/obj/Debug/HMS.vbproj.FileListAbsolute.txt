@@ -1,0 +1,449 @@
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form8.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\Edward Martey\Desktop\COMP 307\HMS\HMS\obj\Debug\HMS.Form10.resources
+E:\HMS\HMS\bin\Debug\HMS.exe.config
+E:\HMS\HMS\obj\Debug\HMS.exe
+E:\HMS\HMS\obj\Debug\HMS.xml
+E:\HMS\HMS\obj\Debug\HMS.pdb
+E:\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+E:\HMS\HMS\obj\Debug\HMS.Resources.resources
+E:\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\eugene\Desktop\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\eugene\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\eugene\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\eugene\Desktop\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\Ok\Desktop\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Ok\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Ok\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Ok\Desktop\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form8.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\Ok\Desktop\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\Martey\Desktop\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\Martey\Desktop\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\Martey\Desktop\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\Martey\Desktop\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form1.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.Form7.resources
+C:\Users\Martey\Desktop\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+E:\HMS\HMS\bin\Debug\HMS.exe
+E:\HMS\HMS\bin\Debug\HMS.pdb
+E:\HMS\HMS\bin\Debug\HMS.xml
+E:\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Form7.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+C:\Users\eugene\Desktop\HMS\HMS\obj\Debug\HMS.Homepage.resources
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.exe
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.xml
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.pdb
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Homepage.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Resources.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.pdb
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.xml
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.exe
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.xml
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.pdb
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\bin\Debug\HMS.exe
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\bin\Debug\HMS.pdb
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\bin\Debug\HMS.xml
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Homepage.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form10.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form2.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form3.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form4.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form5.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form6.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form7.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Form9.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.Resources.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+D:\Projects\Oka Initiative\Backup files\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe.manifest
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.application
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.exe.manifest
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.application
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.exe
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.xml
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.pdb
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe.manifest
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.application
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.exe
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.pdb
+D:\Mora\Projects\Oka Initiative\HMS\HMS\bin\Debug\HMS.xml
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Homepage.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form10.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form2.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form3.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form4.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form5.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form6.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form7.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Form9.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Resources.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.exe.manifest
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.application
+D:\Mora\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.keyLog.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.exe
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.xml
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.pdb
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.exe.manifest
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.application
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.exe
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.pdb
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\bin\Debug\HMS.xml
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Homepage.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form10.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form2.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form3.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form4.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form5.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form6.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form7.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Form9.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.keyLog.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.Resources.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.exe.manifest
+D:\Mora\Projects\Oka Initiative\HMS\HMS\HMS\obj\Debug\HMS.application
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.application
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Homepage.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form7.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.keyLog.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.application
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+C:\Users\mora\Desktop\HMS_2\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.application
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\mora\Desktop\UENR\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Homepage.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form7.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.keyLog.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.application
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.exe.config
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.exe
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.xml
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.pdb
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.application
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.exe
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.pdb
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\HMS.xml
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Homepage.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form10.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form2.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form3.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form4.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form5.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form6.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form7.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Form9.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.keyLog.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.Resources.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.exe.manifest
+C:\Users\mora\Desktop\UENR - Copy\HMS\HMS\obj\Debug\HMS.application
+C:\Users\mora\Desktop\UENR\HMS\HMS\obj\Debug\HMS.Setting.resources
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\bin\Debug\HMS.exe.config
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\obj\Debug\HMS.exe
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\obj\Debug\HMS.xml
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\obj\Debug\HMS.pdb
+D:\Tutorials\Personal\FIRST PROJECT\UENR\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+F:\UENR\HMS\HMS\bin\Debug\HMS.exe.config
+F:\UENR\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+F:\UENR\HMS\HMS\obj\Debug\HMS.exe
+F:\UENR\HMS\HMS\obj\Debug\HMS.xml
+F:\UENR\HMS\HMS\obj\Debug\HMS.pdb
+F:\UENR\HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+F:\UENR\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Homepage.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form10.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form2.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form3.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form4.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form5.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form6.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form7.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Form9.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.keyLog.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Resources.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.Setting.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.UserRecords.resources
+F:\UENR\HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+F:\UENR\HMS\HMS\bin\Debug\HMS.exe.manifest
+F:\UENR\HMS\HMS\bin\Debug\HMS.application
+F:\UENR\HMS\HMS\bin\Debug\HMS.exe
+F:\UENR\HMS\HMS\bin\Debug\HMS.pdb
+F:\UENR\HMS\HMS\bin\Debug\HMS.xml
+F:\UENR\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\UENR\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\UENR\HMS\HMS\obj\Debug\HMS.exe.manifest
+F:\UENR\HMS\HMS\obj\Debug\HMS.application
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.keyLog.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.Setting.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.ComplainsMaintenance.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.HallAssistant.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.StudentRegistration.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.UserRegistration.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.login.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.StaffRegistration.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.StudentRecords.resources
+D:\Projects\Oka Initiative\HMS\HMS\obj\Debug\HMS.StaffRecords.resources
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Smsgh.Api.Sdk.dll
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Oka Initiative\HMS\HMS\bin\Debug\Smsgh.Api.Sdk.xml
+E:\HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+E:\HMS\HMS\bin\Debug\HMS.exe.manifest
+E:\HMS\HMS\bin\Debug\HMS.application
+E:\HMS\HMS\bin\Debug\Newtonsoft.Json.dll
+E:\HMS\HMS\bin\Debug\Smsgh.Api.Sdk.dll
+E:\HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\HMS\bin\Debug\Newtonsoft.Json.xml
+E:\HMS\HMS\bin\Debug\Smsgh.Api.Sdk.xml
+E:\HMS\HMS\obj\Debug\HMS.Background_Image.resources
+E:\HMS\HMS\obj\Debug\HMS.Homepage.resources
+E:\HMS\HMS\obj\Debug\HMS.ComplainsMaintenance.resources
+E:\HMS\HMS\obj\Debug\HMS.HallAssistant.resources
+E:\HMS\HMS\obj\Debug\HMS.StudentRegistration.resources
+E:\HMS\HMS\obj\Debug\HMS.UserRegistration.resources
+E:\HMS\HMS\obj\Debug\HMS.login.resources
+E:\HMS\HMS\obj\Debug\HMS.StaffRegistration.resources
+E:\HMS\HMS\obj\Debug\HMS.StudentRecords.resources
+E:\HMS\HMS\obj\Debug\HMS.StaffRecords.resources
+E:\HMS\HMS\obj\Debug\HMS.keyLog.resources
+E:\HMS\HMS\obj\Debug\HMS.Setting.resources
+E:\HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+E:\HMS\HMS\obj\Debug\HMS.exe.manifest
+E:\HMS\HMS\obj\Debug\HMS.application
+E:\New Hostel\HMS\bin\Debug\HMS.exe.config
+E:\New Hostel\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+E:\New Hostel\HMS\obj\Debug\HMS.exe
+E:\New Hostel\HMS\obj\Debug\HMS.xml
+E:\New Hostel\HMS\obj\Debug\HMS.pdb
+E:\New Hostel\HMS\bin\Debug\HMS.exe.manifest
+E:\New Hostel\HMS\bin\Debug\HMS.application
+E:\New Hostel\HMS\bin\Debug\HMS.exe
+E:\New Hostel\HMS\bin\Debug\HMS.pdb
+E:\New Hostel\HMS\bin\Debug\HMS.xml
+E:\New Hostel\HMS\bin\Debug\Newtonsoft.Json.dll
+E:\New Hostel\HMS\bin\Debug\Smsgh.Api.Sdk.dll
+E:\New Hostel\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\New Hostel\HMS\bin\Debug\Newtonsoft.Json.xml
+E:\New Hostel\HMS\bin\Debug\Smsgh.Api.Sdk.xml
+E:\New Hostel\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+E:\New Hostel\HMS\obj\Debug\HMS.Background_Image.resources
+E:\New Hostel\HMS\obj\Debug\HMS.Homepage.resources
+E:\New Hostel\HMS\obj\Debug\HMS.ComplainsMaintenance.resources
+E:\New Hostel\HMS\obj\Debug\HMS.HallAssistant.resources
+E:\New Hostel\HMS\obj\Debug\HMS.StudentRegistration.resources
+E:\New Hostel\HMS\obj\Debug\HMS.UserRegistration.resources
+E:\New Hostel\HMS\obj\Debug\HMS.login.resources
+E:\New Hostel\HMS\obj\Debug\HMS.StaffRegistration.resources
+E:\New Hostel\HMS\obj\Debug\HMS.StudentRecords.resources
+E:\New Hostel\HMS\obj\Debug\HMS.StaffRecords.resources
+E:\New Hostel\HMS\obj\Debug\HMS.keyLog.resources
+E:\New Hostel\HMS\obj\Debug\HMS.Resources.resources
+E:\New Hostel\HMS\obj\Debug\HMS.Setting.resources
+E:\New Hostel\HMS\obj\Debug\HMS.SplashScreen.resources
+E:\New Hostel\HMS\obj\Debug\HMS.UserRecords.resources
+E:\New Hostel\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+E:\New Hostel\HMS\obj\Debug\HMS.exe.manifest
+E:\New Hostel\HMS\obj\Debug\HMS.application
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.exe.config
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.exe
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.xml
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.pdb
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.exe.manifest
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.application
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.exe
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.pdb
+E:\New Hostel - HMS\HMS\bin\Debug\HMS.xml
+E:\New Hostel - HMS\HMS\bin\Debug\Newtonsoft.Json.dll
+E:\New Hostel - HMS\HMS\bin\Debug\Smsgh.Api.Sdk.dll
+E:\New Hostel - HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\New Hostel - HMS\HMS\bin\Debug\Newtonsoft.Json.xml
+E:\New Hostel - HMS\HMS\bin\Debug\Smsgh.Api.Sdk.xml
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.Background_Image.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.Homepage.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.ComplainsMaintenance.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.HallAssistant.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.StudentRegistration.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.UserRegistration.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.login.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.StaffRegistration.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.StudentRecords.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.StaffRecords.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.keyLog.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.Resources.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.Setting.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.UserRecords.resources
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.exe.manifest
+E:\New Hostel - HMS\HMS\obj\Debug\HMS.application
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.exe.config
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.vbproj.ResolveComReference.cache
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.exe
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.xml
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.pdb
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.exe.manifest
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.application
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.exe
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.pdb
+F:\New Hostel - HMS\HMS\bin\Debug\HMS.xml
+F:\New Hostel - HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\New Hostel - HMS\HMS\bin\Debug\Newtonsoft.Json.dll
+F:\New Hostel - HMS\HMS\bin\Debug\Smsgh.Api.Sdk.dll
+F:\New Hostel - HMS\HMS\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\New Hostel - HMS\HMS\bin\Debug\Newtonsoft.Json.xml
+F:\New Hostel - HMS\HMS\bin\Debug\Smsgh.Api.Sdk.xml
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.vbprojResolveAssemblyReference.cache
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.Background_Image.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.Homepage.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.ComplainsMaintenance.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.HallAssistant.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.StudentRegistration.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.UserRegistration.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.login.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.StaffRegistration.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.StudentRecords.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.StaffRecords.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.keyLog.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.Resources.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.Setting.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.SplashScreen.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.UserRecords.resources
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.vbproj.GenerateResource.Cache
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.exe.manifest
+F:\New Hostel - HMS\HMS\obj\Debug\HMS.application
